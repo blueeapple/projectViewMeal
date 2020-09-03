@@ -1,0 +1,19 @@
+@import "contprofile.css";
+@import "figureimg.css";
+* {
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+body {
+    font-family: calibri;
+}
+
+.img-rounded{
+    border-radius :50%;
+}
+
+.img-sz{
+    width:200px;
+}
