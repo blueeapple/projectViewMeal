@@ -1,5 +1,6 @@
 import '../component/category-list.js';
 
+
 function main() {
     const baseURL = "https://www.themealdb.com";
 
